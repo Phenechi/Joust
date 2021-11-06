@@ -1,0 +1,536 @@
+fileFormatVersion: 2
+guid: 0e4c66289a74a452dad5d14d834a0da6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2905405939947350216
+    second: playerRespawn2_0
+  - first:
+      213: 1072580469490618511
+    second: playerRespawn2_1
+  - first:
+      213: -4638415233747012526
+    second: playerRespawn2_2
+  - first:
+      213: -4398822731349707815
+    second: playerRespawn2_3
+  - first:
+      213: -6572868540972972483
+    second: playerRespawn2_4
+  - first:
+      213: 826733821687361559
+    second: playerRespawn2_5
+  - first:
+      213: -7298494890887652599
+    second: playerRespawn2_6
+  - first:
+      213: -2480466814820013396
+    second: playerRespawn2_7
+  - first:
+      213: -281496698132601408
+    second: playerRespawn2_8
+  - first:
+      213: 7146204343345418000
+    second: playerRespawn2_9
+  - first:
+      213: -2327435870760209651
+    second: playerRespawn2_10
+  - first:
+      213: 7544972936251246654
+    second: playerRespawn2_11
+  - first:
+      213: 4975326406328968852
+    second: playerRespawn2_12
+  - first:
+      213: 3303375224349363460
+    second: playerRespawn2_13
+  - first:
+      213: -3349441846205776408
+    second: playerRespawn2_14
+  - first:
+      213: 7059364033878073032
+    second: playerRespawn2_15
+  - first:
+      213: -4120734114279801448
+    second: playerRespawn2_0
+  - first:
+      213: 1370397746481691291
+    second: playerRespawn2_1
+  - first:
+      213: 7369805034806641690
+    second: playerRespawn2_2
+  - first:
+      213: -5180616553010907902
+    second: playerRespawn2_3
+  - first:
+      213: -8423608759876120920
+    second: playerRespawn2_4
+  - first:
+      213: -3299586569819512199
+    second: playerRespawn2_5
+  - first:
+      213: -2592256719712078451
+    second: playerRespawn2_6
+  - first:
+      213: 1691949975028980400
+    second: playerRespawn2_7
+  - first:
+      213: -9089764343536617453
+    second: playerRespawn2_8
+  - first:
+      213: -3287364532383736010
+    second: playerRespawn2_9
+  - first:
+      213: 8707350777576007684
+    second: playerRespawn2_10
+  - first:
+      213: 4015843799449539165
+    second: playerRespawn2_11
+  - first:
+      213: 1435775352659170514
+    second: playerRespawn2_12
+  - first:
+      213: 8954730865380346858
+    second: playerRespawn2_13
+  - first:
+      213: 5325014367539600214
+    second: playerRespawn2_14
+  - first:
+      213: 1775158166507186133
+    second: playerRespawn2_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: playerRespawn2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 72.3125
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89db488d72630d6c0800000000000000
+      internalID: -4120734114279801448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerRespawn2_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 72.3125
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a79006d71a40310800000000000000
+      internalID: 1370397746481691291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerRespawn2_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 72.3125
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14098bd1aec64660800000000000000
+      internalID: 7369805034806641690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerRespawn2_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 72.3125
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205b64071b0ca18b0800000000000000
+      internalID: -5180616553010907902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerRespawn2_4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 72.3125
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae07bc8674591b80800000000000000
+      internalID: -8423608759876120920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerRespawn2_5
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 72.3125
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97222482f738532d0800000000000000
+      internalID: -3299586569819512199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerRespawn2_6
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 72.3125
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8531fe6f34760cd0800000000000000
+      internalID: -2592256719712078451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerRespawn2_7
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 72.3125
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba5557b9830b7710800000000000000
+      internalID: 1691949975028980400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerRespawn2_8
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 72.3125
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318fc7b3d7baad180800000000000000
+      internalID: -9089764343536617453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerRespawn2_9
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 0
+        width: 72.3125
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f9c00006fe062d0800000000000000
+      internalID: -3287364532383736010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerRespawn2_10
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 72.3125
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408a3201669b6d870800000000000000
+      internalID: 8707350777576007684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerRespawn2_11
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 0
+        width: 72.3125
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5215a3a8a42bb730800000000000000
+      internalID: 4015843799449539165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerRespawn2_12
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 72.3125
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4d2808316ece310800000000000000
+      internalID: 1435775352659170514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerRespawn2_13
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 0
+        width: 72.3125
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebc8322748954c70800000000000000
+      internalID: 8954730865380346858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerRespawn2_14
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 0
+        width: 72.3125
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b9c09aa5046e940800000000000000
+      internalID: 5325014367539600214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerRespawn2_15
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 72.3125
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d76bce72f0a2a810800000000000000
+      internalID: 1775158166507186133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

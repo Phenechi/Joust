@@ -1,0 +1,488 @@
+fileFormatVersion: 2
+guid: 84fd4810cd4034d5f9b82e0dffd3c1c6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7374233619632187572
+    second: playerspawnspritesheet_0
+  - first:
+      213: 8030203476841487206
+    second: playerspawnspritesheet_1
+  - first:
+      213: 6609347139988633084
+    second: playerspawnspritesheet_2
+  - first:
+      213: -2822267149904524063
+    second: playerspawnspritesheet_3
+  - first:
+      213: 6666727433349346776
+    second: playerspawnspritesheet_4
+  - first:
+      213: -5024700259564941048
+    second: playerspawnspritesheet_5
+  - first:
+      213: 524307216305239381
+    second: playerspawnspritesheet_6
+  - first:
+      213: -6020009197805130050
+    second: playerspawnspritesheet_7
+  - first:
+      213: 5935913672213777715
+    second: playerspawnspritesheet_8
+  - first:
+      213: 4773792981111384654
+    second: playerspawnspritesheet_9
+  - first:
+      213: -4258968511996199708
+    second: playerspawnspritesheet_10
+  - first:
+      213: 8325124049106889452
+    second: playerspawnspritesheet_11
+  - first:
+      213: 7249304200927253361
+    second: playerspawnspritesheet_12
+  - first:
+      213: -5196321914368132429
+    second: playerspawnspritesheet_13
+  - first:
+      213: 5540200549870616973
+    second: playerspawnspritesheet_14
+  - first:
+      213: 3068767744812929714
+    second: playerspawnspritesheet_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: playerspawnspritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 146
+        width: 143
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b86bec186a865660800000000000000
+      internalID: 7374233619632187572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerspawnspritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 145
+        width: 120
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b5e3f2483017f60800000000000000
+      internalID: 8030203476841487206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerspawnspritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 144
+        width: 107
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5344cb43e19bb50800000000000000
+      internalID: 6609347139988633084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerspawnspritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 139
+        width: 124
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eccfaceafa45d8d0800000000000000
+      internalID: -2822267149904524063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerspawnspritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 140
+        width: 136
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5b32f5749f48c50800000000000000
+      internalID: 6666727433349346776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerspawnspritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 138
+        width: 145
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 2, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80191d56cbda44ab0800000000000000
+      internalID: -5024700259564941048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerspawnspritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 136
+        width: 154
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5553c05a2a6b64700800000000000000
+      internalID: 524307216305239381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerspawnspritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 138
+        width: 153
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebead3ca781a47ca0800000000000000
+      internalID: -6020009197805130050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerspawnspritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 8
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33dcfa9f80a906250800000000000000
+      internalID: 5935913672213777715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerspawnspritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 4
+        width: 152
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4aa5667c6bef3240800000000000000
+      internalID: 4773792981111384654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerspawnspritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 7
+        width: 145
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec74ec04ba15e4c0800000000000000
+      internalID: -4258968511996199708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerspawnspritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 2
+        width: 148
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceae31ad638c88370800000000000000
+      internalID: 8325124049106889452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerspawnspritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 5
+        width: 137
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173140523c3ba9460800000000000000
+      internalID: 7249304200927253361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerspawnspritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 10
+        width: 137
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba728b00c4f2e7b0800000000000000
+      internalID: -5196321914368132429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerspawnspritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 8
+        width: 130
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81467ffb0fb2ec40800000000000000
+      internalID: 5540200549870616973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: playerspawnspritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1
+        width: 111
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b250cf3104769a20800000000000000
+      internalID: 3068767744812929714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
